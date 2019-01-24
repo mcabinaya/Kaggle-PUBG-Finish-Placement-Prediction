@@ -8,4 +8,5 @@
 - Players data within a group in a match is combined to reduce the dataset size.
 - Some insightful derived features are added to improve the predictions.
 - The best model using Light Gradient Method achieved a Kaggle leaderboard score of 0.0214 on test data.
-- For more information, kindly look into doc.pdf file
+- For more information about data analysis and various experiment results, kindly look into doc.pdf file. 
+- Final code for prediction is given in main.py file.
